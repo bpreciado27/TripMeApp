@@ -1,3 +1,6 @@
+/**
+ * @author Bryan
+ */
 package com.example.tripme;
 
 import android.app.Activity;
